@@ -8,6 +8,14 @@ This can be extended to other molecules and molecular configurations.
 
 A future automated version will be out soon!
 
+
+The code here unfortunately uses an old version of Qiskit:
+
+{'qiskit-terra': '0.20.1', 'qiskit-aer': '0.10.4', 'qiskit-ignis': '0.7.0', 
+'qiskit-ibmq-provider': '0.19.1', 'qiskit-aqua': '0.9.5', 'qiskit': '0.36.1', 
+'qiskit-nature': None, 'qiskit-finance': None, 'qiskit-optimization': None, 'qiskit-machine-learning': None}
+
+
 CAFQA paper: https://arxiv.org/abs/2202.12924
 
 Bibtex:
