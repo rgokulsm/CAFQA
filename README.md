@@ -1,6 +1,6 @@
 # CAFQA
 
-## You can find a faster and more up-to-date version of CAFQA here: https://github.com/makzator/CAFQA . The repo is under development so you can expect examples, details, and additional features in the near future. This is maintained by Max Seifert who is a PhD student at UChicago working with Fred Chong. ##
+## You can find a faster and  up-to-date version of CAFQA and follow up work Clapton here: [https://github.com/makzator/CAFQA](https://github.com/makzator/clapton) .This is maintained by Max Seifert who is a PhD student at UChicago working with Fred Chong. You can ignore the rest of the text and code here and directly jump to the above link##
 
 A python notebook that runs CAFQA on the H2 molecule at some specific molecular specification. This is a sanity check for CAFQA. It needs the hypermapper tool - https://github.com/luinardi/hypermapper) apart from Qiskit.
 
